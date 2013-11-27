@@ -1,0 +1,6 @@
+8374aa9ac2df65b6fecb4debc6009bcd *DESCRIPTION
+f2a0f4c9b25dae811efca7c95b0bafbb *NAMESPACE
+afd7f02eb713e1e7aab96c854b069b67 *R/prog.R
+a3b57dba3fb267db396abd71b581d61f *man/AggregatedPROC.Rd
+4ea9668b1ea1165f6fb402abd507a1d2 *man/IndividualPROC.Rd
+87e570069f16b5ae60d972ec7999354e *man/prognosticROC-package.Rd
